@@ -25,7 +25,7 @@ namespace _016_Data_nullable
             Console.WriteLine("isFlag: {0}", isFlag);
             Console.WriteLine("isFlag HasValue: {0}", isFlag.HasValue);
 
-            if (isFlag.HasValue) //값을 참조하려면 반드시 null인지 체크..
+            if (isFlag.HasValue) 
                 Console.WriteLine("isFlag HasValue: {0}", isFlag.Value);
         }
     }
