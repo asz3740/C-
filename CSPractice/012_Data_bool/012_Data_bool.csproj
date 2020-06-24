@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FBEB3129-F2AD-4D3C-9732-39FF59E206E1}</ProjectGuid>
+    <ProjectGuid>{3CC1FBDB-8D1A-49B0-A1A9-2F9B1C516793}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_009_Data4</RootNamespace>
-    <AssemblyName>009_Data4</AssemblyName>
+    <RootNamespace>_012_Data_bool</RootNamespace>
+    <AssemblyName>012_Data_bool</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

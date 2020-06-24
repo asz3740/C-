@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FBEB3129-F2AD-4D3C-9732-39FF59E206E1}</ProjectGuid>
+    <ProjectGuid>{D1D48F10-F644-4C7D-85C0-64BAB24327E2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_009_Data4</RootNamespace>
-    <AssemblyName>009_Data4</AssemblyName>
+    <RootNamespace>_016_Data_nullable</RootNamespace>
+    <AssemblyName>016_Data_nullable</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

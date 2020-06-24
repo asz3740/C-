@@ -10,6 +10,15 @@ namespace _009_Data4
     {
         static void Main(string[] args)
         {
+            char a = 'H';
+            char b = 'e';
+            char c = 'l';
+            char d = 'l';
+            char e = 'o';
+
+            string str = "World!";
+
+            Console.WriteLine("{0}{1}{2}{3}{4} {5}", a, b, c, d, e, str);
         }
     }
 }
